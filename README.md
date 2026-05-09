@@ -108,8 +108,8 @@ This portfolio is inspired by the dark cinematic atmosphere of *The Godfather*, 
 
 ## 👨‍💻 Author
 
-**Yogesh Bhadauriya**
+**Yogesh Singh Bhadoriya**
 
-Frontend Developer | React Enthusiast
+Full-Stack Developer | React Enthusiast
 
 ---
