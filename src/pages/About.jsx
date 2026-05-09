@@ -10,7 +10,7 @@ const About = () => {
 
           <h2 className="text-5xl text-yellow-500 font-bold" mb-10>
             I DON'T FOLLOW TRENDS <br />
-            I BUILDS WHAT LASTS
+            I BUILD WHAT LASTS
           </h2>
 
           <p className="text-gray-400 text-xl leading-10 w-[70%] mt-2">
