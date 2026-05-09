@@ -1,16 +1,115 @@
-# React + Vite
+# 🎩 Godfather Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A cinematic and elegant frontend portfolio website inspired by *The Godfather* theme, built using React, Tailwind CSS, Props, and React Router.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Multi-page React application
+- Smooth client-side routing
+- Reusable components using Props
+- Cinematic black & gold UI
+- Responsive modern layout
+- Project showcase cards
+- Minimal contact form
+- Fully offline assets support
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- React
+- Tailwind CSS
+- React Router DOM
+- JavaScript
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+│
+├── assets/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Footer.jsx
+│   └── ProjectCard.jsx
+│
+├── pages/
+│   ├── Home.jsx
+│   ├── About.jsx
+│   ├── Projects.jsx
+│   └── Contact.jsx
+│
+├── App.jsx
+├── main.jsx
+└── App.css
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Yogesh0209/godfather-portfolio.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🎨 Theme Inspiration
+
+This portfolio is inspired by the dark cinematic atmosphere of *The Godfather*, combining luxury aesthetics with modern frontend design.
+
+---
+
+## 📸 Preview
+
+### Home Page
+- Cinematic hero section
+- Elegant typography
+- Gold glow effects
+
+### Projects Page
+- Reusable project cards
+- Tailwind hover animations
+- Responsive grid layout
+
+### Contact Page
+- Minimal premium contact form
+- Smooth modern styling
+
+---
+
+## 📌 Learning Concepts Used
+
+- React Components
+- Props
+- React Router
+- Tailwind Utility Classes
+- Asset Importing
+- Page-Based Architecture
+
+---
+
+## 👨‍💻 Author
+
+**Yogesh Bhadauriya**
+
+Frontend Developer | React Enthusiast
+
+---
